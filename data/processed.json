@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the company's policy on employee compensation?",
+        "action": "get_policy"
+    },
+    {
+        "question": "What is the procedure for filing a complaint or grievance?",
+        "action": "escalate"
+    },
+    {
+        "question": "Can you get my payslip last month?",
+        "action": "get_payslip"
+    },
+    {
+        "question": "What is the company's policy on maternity or paternity leave?",
+        "action": "get_policy"
+    },
+    {
+        "question": "What is the company's policy on conflict resolution?",
+        "action": "get_policy"
+    },
+    {
+        "question": "How can I apply for a promotion or transfer to a different department?",
+        "action": "get_policy"
+    },
+    {
+        "question": "Can you ask HR to get me a new laptop?",
+        "action": "escalate"
+    },
+    {
+        "question": "What is the process for submitting expenses for reimbursement?",
+        "action": "get_policy"
+    },
+    {
+        "question": "What is the process for requesting time off or vacation days?",
+        "action": "get_policy"
+    },
+    {
+        "question": "What is the company's policy on work from home or remote work?",
+        "action": "get_policy"
+    },
+    {
+        "question": "How do I report a problem with a coworker or supervisor?",
+        "action": "escalate"
+    },
+    {
+        "question": "What are the company's policies on sick leave?",
+        "action": "get_policy"
+    },
+    {
+        "question": "How do I update my personal information or emergency contacts?",
+        "action": "escalate"
+    },
+    {
+        "question": "How can I file my expenses from client meeting?",
+        "action": "escalate"
+    },
+    {
+        "question": "What is the company's policy on employee privacy?",
+        "action": "get_policy"
+    },
+    {
+        "question": "What is the company's policy on overtime work?",
+        "action": "get_policy"
+    },
+    {
+        "question": "How does the health insurance coverage work?",
+        "action": "get_policy"
+    },
+    {
+        "question": "I'm not feeling well today, can you book a dayoff for me?",
+        "action": "book_holiday"
+    },
+    {
+        "question": "What is the company's policy on employee recognition and rewards?",
+        "action": "get_policy"
+    },
+    {
+        "question": "What are the company's policies on diversity and inclusion?",
+        "action": "get_policy"
+    },
+    {
+        "question": "What is the company's policy on employee conduct?",
+        "action": "get_policy"
+    },
+    {
+        "question": "I need more information from HR team on our maternity policy. Could you let them know?",
+        "action": "escalate"
+    },
+    {
+        "question": "What retirement savings plans are available?",
+        "action": "get_policy"
+    },
+    {
+        "question": "What is the company's policy on employee termination?",
+        "action": "get_policy"
+    },
+    {
+        "question": "How does the performance review process work?",
+        "action": "get_policy"
+    },
+    {
+        "question": "What training or professional development opportunities are available?",
+        "action": "get_policy"
+    },
+    {
+        "question": "What is the company's policy on harassment and discrimination?",
+        "action": "get_policy"
+    },
+    {
+        "question": "What is the company's dress code policy?",
+        "action": "get_policy"
+    },
+    {
+        "question": "What is the company's policy on employee benefits?",
+        "action": "get_policy"
+    },
+    {
+        "question": "What is the company's policy on employee safety and wellness?",
+        "action": "get_policy"
+    }
+]
